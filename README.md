@@ -15,12 +15,13 @@ Any Vivado HLS release from 2014.1 to 2016.1
 	|   README.md
 	\---code
 			svd.h
-		    svd.cpp
-		    svd_tb.cpp
+		    	svd.cpp
+		    	svd_tb.cpp
+			hls_svd.h
 	\---code-opt
 			svd.h
-		    svd.cpp
-		    svd_tb.cpp
+		   	svd.cpp
+		    	svd_tb.cpp
 			hls_svd.h
 	\---impl
 			svd_top_csynth.rpt
